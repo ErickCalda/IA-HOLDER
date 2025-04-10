@@ -1,7 +1,6 @@
 
 # IA Crypto Holder
 
-IA Crypto Holder es una plataforma innovadora respaldada por inteligencia artificial, diseñada para proporcionar análisis fundamentales avanzados y éticos de criptomonedas y tokens. A diferencia de las soluciones tradicionales enfocadas en el trading, nuestra plataforma está pensada para holders de criptomonedas que buscan invertir a largo, medio y corto plazo, con el objetivo de evaluar la calidad y fiabilidad de los proyectos desde un punto de vista técnico, económico y ético.
 
 ## Propósito del Proyecto
 
